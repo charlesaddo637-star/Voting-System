@@ -1,0 +1,1 @@
+Voting System Project This project implements a simple yet flexible voting system using JavaScript’s Map and Set data structures. Each poll option is stored as a key in a Map, with its value being a Set of unique voter IDs
